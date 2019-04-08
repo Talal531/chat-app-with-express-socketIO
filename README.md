@@ -1,3 +1,10 @@
+<h2> Chat App using Express.js and socket.io </h2>
+clone this repositry
+
+```
+git clone https://github.com/Talal531/chat-app-with-express-socketIO.git
+```
+
 install dependencies
 ```
 npm install
